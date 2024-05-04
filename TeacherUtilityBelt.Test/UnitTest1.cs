@@ -1,3 +1,4 @@
+using System.Runtime.InteropServices.Marshalling;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Moq;
@@ -53,7 +54,7 @@ public class CrossWordTest
     [InlineData("Arch", "Arch")]
     [InlineData("XYZ", "XYZ")]
     [InlineData("7654321", "7654321")]
-    public async void Test1(string key, string value)
+    public async Task Test_GenerateRandomGrid(string key, string value)
     {
         options.Setup(s => s.Value).Returns( new AppSettings{ FoundWordMinCount = value.Length });
         gridHelper.Setup(s => s.GenerateRandomGrid(It.IsAny<Coordinate>())).Returns( Task.FromResult(GenerateTestGrid()));
@@ -66,7 +67,7 @@ public class CrossWordTest
 
         var sut = BuildSystemUnderTest();
 
-        var response = await sut.GenerateCrosswordGrid(new Coordinate(8,8));
+        var response = await sut.GenerateRandomGrid(new Coordinate(8,8));
         
         Assert.True(response.GridAnswer.Count() == 1);
     }

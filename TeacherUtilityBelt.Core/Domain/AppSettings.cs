@@ -2,7 +2,10 @@ namespace TeacherUtilityBelt.Core.Domain;
 
 public class AppSettings
 {
-    public int CacheTimeout {get; set;}
+    public virtual int CacheTimeout {get; set;}
 
-    public int FoundWordMinCount {get; set;}
+    public virtual int FoundWordMinCount {get; set;}
+
+
+    public virtual int MiinimumWordLengthAcceptable {get; set;} = 4;
 }

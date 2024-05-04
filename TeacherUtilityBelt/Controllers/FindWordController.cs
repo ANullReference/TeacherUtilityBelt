@@ -28,6 +28,15 @@ public class FindWordController : Controller
         return View(response);
     }
 
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <returns></returns>
+    public async Task<IActionResult> GenerateRandomWords(int wordCount = 20)
+    {
+        var response = await _requestManager.GenerateRandomWords(wordCount) ;
+        return View(response);
+    }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()

@@ -11,4 +11,15 @@ public class GridAnswerResponse
     /// 
     /// </summary>
     public Dictionary<string, List<Coordinate>> GridAnswer  { get; set;}
+
+
+    public List<string> FindWordsWithinGrid(string[][] grid)
+    {
+        return null;
+    }
+
+    public string[][] GenerateCrossWordGrid(int wordCount)
+    {
+        return null;       
+    }
 }

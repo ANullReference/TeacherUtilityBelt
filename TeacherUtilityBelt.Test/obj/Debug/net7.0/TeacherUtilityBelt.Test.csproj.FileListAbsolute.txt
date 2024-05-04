@@ -130,6 +130,12 @@ g:/TeacherUtilityBelt/src/TeacherUtilityBelt.Test/obj/Debug/net7.0/TeacherUtilit
 g:/TeacherUtilityBelt/src/TeacherUtilityBelt.Test/obj/Debug/net7.0/TeacherUtilityBelt.Test.genruntimeconfig.cache
 g:/TeacherUtilityBelt/src/TeacherUtilityBelt.Test/obj/Debug/net7.0/ref/TeacherUtilityBelt.Test.dll
 /home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Test/bin/Debug/net7.0/CoverletSourceRootsMapping
+/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Test/obj/Debug/net7.0/TeacherUtilityBelt.Test.csproj.AssemblyReference.cache
+/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Test/obj/Debug/net7.0/TeacherUtilityBelt.Test.GeneratedMSBuildEditorConfig.editorconfig
+/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Test/obj/Debug/net7.0/TeacherUtilityBelt.Test.AssemblyInfoInputs.cache
+/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Test/obj/Debug/net7.0/TeacherUtilityBelt.Test.AssemblyInfo.cs
+/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Test/obj/Debug/net7.0/TeacherUtilityBelt.Test.csproj.CoreCompileInputs.cache
+/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Test/obj/Debug/net7.0/TeacherUtilityBelt.Test.sourcelink.json
 /home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Test/bin/Debug/net7.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
 /home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Test/bin/Debug/net7.0/xunit.runner.reporters.netcoreapp10.dll
 /home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Test/bin/Debug/net7.0/xunit.runner.utility.netcoreapp10.dll
@@ -248,12 +254,6 @@ g:/TeacherUtilityBelt/src/TeacherUtilityBelt.Test/obj/Debug/net7.0/ref/TeacherUt
 /home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Test/bin/Debug/net7.0/TeacherUtilityBelt.Infrastructure.dll
 /home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Test/bin/Debug/net7.0/TeacherUtilityBelt.Core.pdb
 /home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Test/bin/Debug/net7.0/TeacherUtilityBelt.Infrastructure.pdb
-/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Test/obj/Debug/net7.0/TeacherUtilityBelt.Test.csproj.AssemblyReference.cache
-/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Test/obj/Debug/net7.0/TeacherUtilityBelt.Test.GeneratedMSBuildEditorConfig.editorconfig
-/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Test/obj/Debug/net7.0/TeacherUtilityBelt.Test.AssemblyInfoInputs.cache
-/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Test/obj/Debug/net7.0/TeacherUtilityBelt.Test.AssemblyInfo.cs
-/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Test/obj/Debug/net7.0/TeacherUtilityBelt.Test.csproj.CoreCompileInputs.cache
-/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Test/obj/Debug/net7.0/TeacherUtilityBelt.Test.sourcelink.json
 /home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Test/obj/Debug/net7.0/TeacherUtilityBelt.Test.csproj.CopyComplete
 /home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Test/obj/Debug/net7.0/TeacherUtilityBelt.Test.dll
 /home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Test/obj/Debug/net7.0/refint/TeacherUtilityBelt.Test.dll
