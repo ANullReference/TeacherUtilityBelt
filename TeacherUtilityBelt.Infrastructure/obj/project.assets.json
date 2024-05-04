@@ -1051,19 +1051,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Archille\\.nuget\\packages\\": {}
+    "/home/archille/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\TeacherUtilityBelt\\src\\TeacherUtilityBelt.Infrastructure\\TeacherUtilityBelt.Infrastructure.csproj",
+      "projectUniqueName": "/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Infrastructure/TeacherUtilityBelt.Infrastructure.csproj",
       "projectName": "TeacherUtilityBelt.Infrastructure",
-      "projectPath": "G:\\TeacherUtilityBelt\\src\\TeacherUtilityBelt.Infrastructure\\TeacherUtilityBelt.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Archille\\.nuget\\packages\\",
-      "outputPath": "G:\\TeacherUtilityBelt\\src\\TeacherUtilityBelt.Infrastructure\\obj\\",
+      "projectPath": "/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Infrastructure/TeacherUtilityBelt.Infrastructure.csproj",
+      "packagesPath": "/home/archille/.nuget/packages/",
+      "outputPath": "/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Archille\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/archille/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -1075,8 +1075,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "G:\\TeacherUtilityBelt\\src\\TeacherUtilityBelt.Core\\TeacherUtilityBelt.Core.csproj": {
-              "projectPath": "G:\\TeacherUtilityBelt\\src\\TeacherUtilityBelt.Core\\TeacherUtilityBelt.Core.csproj"
+            "/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Core/TeacherUtilityBelt.Core.csproj": {
+              "projectPath": "/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Core/TeacherUtilityBelt.Core.csproj"
             }
           }
         }
@@ -1116,7 +1116,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/RuntimeIdentifierGraph.json"
       }
     }
   }

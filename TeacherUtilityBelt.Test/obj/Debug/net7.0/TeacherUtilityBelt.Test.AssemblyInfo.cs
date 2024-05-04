@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeacherUtilityBelt.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57b3ddc598a8ca3a707f871522bf292d0456aee2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeacherUtilityBelt.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeacherUtilityBelt.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

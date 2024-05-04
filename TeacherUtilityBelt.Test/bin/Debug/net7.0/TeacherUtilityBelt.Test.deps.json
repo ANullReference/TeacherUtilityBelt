@@ -717,7 +717,7 @@
             "rid": "win",
             "assetType": "runtime",
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "8.0.23.53103"
           },
           "runtimes/win/lib/net7.0/System.Diagnostics.EventLog.dll": {
             "rid": "win",
@@ -1269,7 +1269,7 @@
         "runtime": {
           "lib/netstandard2.0/xunit.abstractions.dll": {
             "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.0.0.0"
+            "fileVersion": "0.0.0.0"
           }
         }
       },

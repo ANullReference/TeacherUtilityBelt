@@ -369,19 +369,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Archille\\.nuget\\packages\\": {}
+    "/home/archille/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "g:\\TeacherUtilityBelt\\src\\TeacherUtilityBelt.Core\\TeacherUtilityBelt.Core.csproj",
+      "projectUniqueName": "/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Core/TeacherUtilityBelt.Core.csproj",
       "projectName": "TeacherUtilityBelt.Core",
-      "projectPath": "g:\\TeacherUtilityBelt\\src\\TeacherUtilityBelt.Core\\TeacherUtilityBelt.Core.csproj",
-      "packagesPath": "C:\\Users\\Archille\\.nuget\\packages\\",
-      "outputPath": "g:\\TeacherUtilityBelt\\src\\TeacherUtilityBelt.Core\\obj\\",
+      "projectPath": "/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Core/TeacherUtilityBelt.Core.csproj",
+      "packagesPath": "/home/archille/.nuget/packages/",
+      "outputPath": "/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt.Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Archille\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/archille/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -426,7 +426,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/RuntimeIdentifierGraph.json"
       }
     }
   }

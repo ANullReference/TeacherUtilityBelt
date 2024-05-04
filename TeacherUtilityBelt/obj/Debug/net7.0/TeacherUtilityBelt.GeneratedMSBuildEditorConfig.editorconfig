@@ -9,41 +9,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TeacherUtilityBelt
 build_property.RootNamespace = TeacherUtilityBelt
-build_property.ProjectDir = g:\TeacherUtilityBelt\src\TeacherUtilityBelt\
+build_property.ProjectDir = /home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = g:\TeacherUtilityBelt\src\TeacherUtilityBelt
+build_property.MSBuildProjectDirectory = /home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt
 build_property._RazorSourceGeneratorDebug = 
 
-[g:/TeacherUtilityBelt/src/TeacherUtilityBelt/Views/FindWord/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmluZFdvcmRcSW5kZXguY3NodG1s
+[/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt/Views/FindWord/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmluZFdvcmQvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/TeacherUtilityBelt/src/TeacherUtilityBelt/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/TeacherUtilityBelt/src/TeacherUtilityBelt/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/TeacherUtilityBelt/src/TeacherUtilityBelt/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/TeacherUtilityBelt/src/TeacherUtilityBelt/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/TeacherUtilityBelt/src/TeacherUtilityBelt/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/TeacherUtilityBelt/src/TeacherUtilityBelt/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/TeacherUtilityBelt/src/TeacherUtilityBelt/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-nyhoirkd53
+[/home/archille/Documents/git/TeacherUtilityBelt/TeacherUtilityBelt/TeacherUtilityBelt/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-l7zs20mu7e
