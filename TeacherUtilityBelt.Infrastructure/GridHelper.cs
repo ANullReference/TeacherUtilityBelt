@@ -63,4 +63,17 @@ public class GridHelper : IGridHelper
                                     
         return await Task.FromResult( randomWords );
     }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="words"></param>
+    /// <returns></returns> <summary>
+    public async Task<string[][]> GenerateCrosswordUsingWords(List<string> words)
+    {
+
+
+
+        return null;
+    }
 }

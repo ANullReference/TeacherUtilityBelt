@@ -261,3 +261,11 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+
+# TeacherUtilityBelt.Core/bin/Debug/net7.0/TeacherUtilityBelt.Core.pdb
+# TeacherUtilityBelt.Core/bin/Debug/net7.0/TeacherUtilityBelt.Core.pdb
+*.Core.pdb
+*.Core.dlls
+TeacherUtilityBelt.Core/bin/Debug/net7.0/TeacherUtilityBelt.Core.dll
+*.*.dll
+TeacherUtilityBelt.Infrastructure/bin/Debug/net7.0/TeacherUtilityBelt.Core.dll
