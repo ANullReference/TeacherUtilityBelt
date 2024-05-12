@@ -4,7 +4,6 @@ using Microsoft.Extensions.Logging;
 using System.Text;
 using Microsoft.Extensions.Options;
 using System.Data;
-using System.ComponentModel.Design;
 
 namespace TeacherUtilityBelt.Core;
 
