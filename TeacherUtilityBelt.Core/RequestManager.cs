@@ -3,6 +3,8 @@ using TeacherUtilityBelt.Core.Domain;
 using Microsoft.Extensions.Logging;
 using System.Text;
 using Microsoft.Extensions.Options;
+using System.Data;
+using System.ComponentModel.Design;
 
 namespace TeacherUtilityBelt.Core;
 
@@ -29,7 +31,7 @@ public class RequestManager : IRequestManager
     /// <param name="x"></param>
     /// <param name="y"></param>
     /// <returns></returns>
-    public async Task<GridAnswerResponse> GenerateCrosswordGrid(Coordinate coordinate)
+    public async Task<GridAnswerResponse> GenerateRandomGrid(Coordinate coordinate)
     {
         var dict = await _wordDictionary.GetWordDictionary("en");
         var maxDiagonal = coordinate.X;
@@ -51,7 +53,6 @@ public class RequestManager : IRequestManager
                 foreach(var gn in gridNavigator)
                 {
                     var foundMatches = new List<Coordinate>() { new Coordinate(i, j) };
-
 
                     var found = await FoundWordsRecursion(grid, i, j, keys, grid[i][j], gn, foundMatches);
 
@@ -124,6 +125,19 @@ public class RequestManager : IRequestManager
         }
 
         return await FoundWordsRecursion(s, nextX , nextY, filteredKeyList.ToList() , builtString, operation, foundMatches);
+    }
+
+
+
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="wordCount"></param>
+    /// <returns></returns>
+    public async Task<Tuple<List<string>, string[][]>> GenerateRandomWords(int wordCount)
+    {
+        List<string> generatedRadomWords = await _gridHelper.GenerateRandomAnswers(wordCount);
+         return null;
     }
 
     private void PrintGrid(string [][] s, string lookingFor, int x, int y)

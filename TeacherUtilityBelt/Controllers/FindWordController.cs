@@ -24,10 +24,19 @@ public class FindWordController : Controller
     /// <returns></returns>
     public async Task<IActionResult> Index()
     {
-        var response = await _requestManager.GenerateCrosswordGrid(new Coordinate(19,19));
+        var response = await _requestManager.GenerateRandomGrid(new Coordinate(19,19));
         return View(response);
     }
 
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <returns></returns>
+    public async Task<IActionResult> GenerateRandomWords(int wordCount = 20)
+    {
+        var response = await _requestManager.GenerateRandomWords(wordCount) ;
+        return View(response);
+    }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
