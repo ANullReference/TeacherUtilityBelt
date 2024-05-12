@@ -10,7 +10,7 @@ namespace TeacherUtilityBelt.Test;
 public class UnitTestGridHelper
 {
     private Mock<IWordDictionary> wordDictionary;
-    private Mock<IOptions    <AppSettings>> options;
+    private Mock<IOptions<AppSettings>> options;
 
 
     public UnitTestGridHelper()
@@ -75,7 +75,7 @@ public class UnitTestGridHelper
             errorMessage = e.Message;
         } 
      
-        Assert.Equal(errorMessage, "Parameter {maxwordCount} equal to or less than 0");
+        Assert.True(errorMessage.Equals( "Parameter {maxwordCount} equal to or less than 0"));
     }
 
     [Theory]
@@ -94,7 +94,6 @@ public class UnitTestGridHelper
         };
 
         wordDictionary.Setup(s => s.GetWordDictionary(It.IsAny<string>())).Returns(Task.FromResult(d));
-
 
         var sut = BuildSystemUnderTest();   
         string errorMessage = "";
